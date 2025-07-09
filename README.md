@@ -1,0 +1,61 @@
+# 👋 Hi there, I'm Suleiman Juma
+
+🎓 **BBIT student passionate about building impactful software, leveraging cloud, and exploring AI and automation to solve real-world problems.**
+
+💡 I believe in using technology to improve workflows and lives, with a forward-thinking mindset that blends creativity and practicality.
+
+---
+
+## 🚀 What I'm Working On
+
+- 🏗️ **[RentWise](https://github.com/SuleimanJuma/rent-wise):** An AI-powered property management platform using Supabase, Next.js, and Stripe.
+- 🌱 Deepening my skills in **AWS Cloud, Kubernetes, and scalable backend architecture**.
+- 🔬 Exploring **machine learning projects** to apply predictive analytics practically.
+- ✍️ Sharing my knowledge by building clean, documented projects on GitHub.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, JavaScript, SQL, HTML/CSS
+- **Frameworks:** FastAPI, Flask, Next.js
+- **Databases:** PostgreSQL, Supabase, Firebase
+- **Cloud:** AWS, Supabase
+- **Tools:** Git, Docker, VS Code, GitHub Actions
+- **Other:** REST APIs, JWT Auth, Stripe Integrations
+
+---
+
+## 📈 GitHub Stats
+
+![Suleiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuleimanJuma&show_icons=true&theme=radical)
+
+---
+
+## 📚 Learning Roadmap
+
+- 🪐 Kubernetes for deployment and orchestration
+- 🤖 Advanced ML pipelines
+- 🚀 Building scalable serverless architectures
+- 🧩 Contributing to meaningful open-source projects
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/) _(Update with your profile link)_
+- 📧 Email: suleiman@example.com _(Replace with your professional email)_
+- 🖥️ Portfolio: (Optional if you have one)
+
+---
+
+## ⚡ Fun Facts
+
+✨ I enjoy reading about biblical history and how ancient systems influence modern thinking.
+
+✨ I believe that **every line of clean code contributes to building a better, scalable, and maintainable future.**
+
+---
+
+> "Code is a tool, but the vision behind it is what drives real impact." 🚀
+
