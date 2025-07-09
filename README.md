@@ -26,15 +26,25 @@
 ---
 
 ## 📈 GitHub Stats
-
 ![Suleiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuleimanJuma&show_icons=true&theme=radical)
 
 
+
+## 🛠️ Top Languages
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleimanJuma&layout=compact&theme=radical">
+
 
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SuleimanJuma&theme=radical)
+
+
+
+## 📊 Metrics
+![Metrics](https://github.com/SuleimanJuma/SuleimanJuma/blob/main/metrics.svg)
+
+
+
 
 ---
 
