@@ -45,8 +45,8 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/) _(Update with your profile link)_
-- 📧 Email: suleimanj225@gmail.com _
+
+- 📧 Email: suleimanj225@gmail.com _sjuma.data@gmail.com_
 
 ---
 
