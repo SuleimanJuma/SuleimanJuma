@@ -47,7 +47,6 @@
 
 - [LinkedIn](https://www.linkedin.com/) _(Update with your profile link)_
 - 📧 Email: suleimanj225@gmail.com _
-- 🖥️ Portfolio: (Optional if you have one)
 
 ---
 
