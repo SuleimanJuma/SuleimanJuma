@@ -30,6 +30,9 @@
 
 ![Suleiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuleimanJuma&show_icons=true&theme=radical)
 
+
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleimanJuma&layout=compact&theme=radical">
+
 ---
 
 ## 📚 Learning Roadmap
@@ -44,7 +47,7 @@
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/) _(Update with your profile link)_
-- 📧 Email: suleiman@example.com _(Replace with your professional email)_
+- 📧 Email: suleimanj225@gmail.com _
 - 🖥️ Portfolio: (Optional if you have one)
 
 ---
