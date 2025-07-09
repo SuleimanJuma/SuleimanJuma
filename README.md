@@ -18,11 +18,10 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, JavaScript, SQL, HTML/CSS
-- **Frameworks:** FastAPI, Flask, Next.js
-- **Databases:** PostgreSQL, Supabase, Firebase
+- **Databases:** PostgreSQL, Supabase, mysql
 - **Cloud:** AWS, Supabase
 - **Tools:** Git, Docker, VS Code, GitHub Actions
-- **Other:** REST APIs, JWT Auth, Stripe Integrations
+- **Other:** REST APIs, JWT Auth
 
 ---
 
@@ -54,11 +53,11 @@
 
 ## ⚡ Fun Facts
 
-✨ I enjoy reading about biblical history and how ancient systems influence modern thinking.
+✨ I enjoy reading about  how ancient systems influence modern thinking.
 
 ✨ I believe that **every line of clean code contributes to building a better, scalable, and maintainable future.**
 
 ---
 
-> "Code is a tool, but the vision behind it is what drives real impact." 🚀
+> "Code is a tool, but the vision behind it is what drives real impact." 
 
