@@ -66,6 +66,12 @@
 -🚀 Contact:  https://t.me/sjuma1
 
 
+## 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=SuleimanJuma&color=blue)
+
+
+
 ---
 
 ## ⚡ Fun Facts
