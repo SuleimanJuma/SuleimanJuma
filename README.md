@@ -65,6 +65,10 @@
 
 -🚀 Contact:  https://t.me/sjuma1
 
+🚀linked-in: www.linkedin.com/in/suleimanjuma001
+
+
+
 
 ## 👀 Profile Views
 
