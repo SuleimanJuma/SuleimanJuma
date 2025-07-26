@@ -3,12 +3,21 @@
    ![Visitor Count](https://komarev.com/ghpvc/?username=SuleimanJuma&color=blue)
 
 
-   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=27F7F7&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Suleiman+Juma!;Cloud+Engineer+%7C+DevOps+Learner;Python+%7C+Linux+%7C+AWS+%7C+Shell+Scripting" alt="Typing SVG" />
+  
+# Hi, I'm Suleiman Juma 👋
+
+Cloud Engineer | Python & Shell | AWS | DevOps Learner
+
+<p align="center">
+  <img src="deploy-animation.png" width="600" alt="From Code to Cloud Animation">
+</p>
+
+<p align="center">
+  <em>From Code to Cloud: Automated AWS deployment using Shell & AWS CLI</em>
 </p>
 
 
-# 👋 Hi there, I'm Suleiman Juma
+
 
 🎓 **BBIT student passionate about building impactful software, leveraging cloud, and exploring AI and automation to solve real-world problems.**
 
