@@ -3,18 +3,18 @@
    ![Visitor Count](https://komarev.com/ghpvc/?username=SuleimanJuma&color=blue)
 
 
-  
-# Hi, I'm Suleiman Juma 👋
-
-Cloud Engineer | Python & Shell | AWS | DevOps Learner
+  # Hi, I'm Suleiman Juma 👋
 
 <p align="center">
-  <img src="deploy-animation.png" width="600" alt="From Code to Cloud Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=27F7F7&center=true&vCenter=true&width=440&lines=Cloud+Engineer+%7C+DevOps+Learner;Python+%7C+Linux+%7C+AWS+%7C+Shell+Scripting" alt="Typing SVG" />
 </p>
 
+
 <p align="center">
-  <em>From Code to Cloud: Automated AWS deployment using Shell & AWS CLI</em>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
+
+
 
 
 
@@ -40,7 +40,9 @@ Cloud Engineer | Python & Shell | AWS | DevOps Learner
 - **Databases:** PostgreSQL, Supabase, mysql
 - **Cloud:** AWS, Supabase
 - **Tools:** Git, Docker, VS Code, GitHub Actions
-- **Other:** REST APIs, JWT Auth
+- **Other:** REST APIs, JWT Auth  AWS (EC2, S3, RDS, IAM, Lambda...), Shell Scripting, Linux (Ubuntu/CentOS)
+
+
 
 ---
 
