@@ -1,6 +1,6 @@
-                              ## 👀 Profile Views
+  ## 👀 Profile Views
 
-                  ![Visitor Count](https://komarev.com/ghpvc/?username=SuleimanJuma&color=blue)
+   ![Visitor Count](https://komarev.com/ghpvc/?username=SuleimanJuma&color=blue)
 
 # 👋 Hi there, I'm Suleiman Juma
 
