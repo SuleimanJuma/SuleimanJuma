@@ -1,3 +1,7 @@
+                              ## 👀 Profile Views
+
+                  ![Visitor Count](https://komarev.com/ghpvc/?username=SuleimanJuma&color=blue)
+
 # 👋 Hi there, I'm Suleiman Juma
 
 🎓 **BBIT student passionate about building impactful software, leveraging cloud, and exploring AI and automation to solve real-world problems.**
@@ -72,9 +76,7 @@
 
 
 
-## 👀 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SuleimanJuma&color=blue)
 
 
 
