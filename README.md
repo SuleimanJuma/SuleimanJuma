@@ -15,6 +15,14 @@
 </p>
 
 
+<p align="center">
+  <img src="Cloud Resources Deployment in Action.png" width="700" alt="From Code to Cloud Animation">
+</p>
+
+<p align="center">
+  <em>From Code to Cloud: Automating AWS infrastructure with Shell & AWS CLI</em>
+</p>
+
 
 
 
