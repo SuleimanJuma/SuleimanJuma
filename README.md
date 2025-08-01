@@ -6,7 +6,7 @@
   # Hi, I'm Suleiman Juma 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=27F7F7&center=true&vCenter=true&width=700&lines=Cloud+Engineer+%7C+DevOps+Learner;Python+%7C+Linux+%7C+AWS+%7C+Shell+Scripting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=27F7F7&center=true&vCenter=true&width=700&lines=Cloud+Engineer+%7C+DevOps;Python+%7C+Linux+%7C+AWS+%7C+Shell+Scripting" alt="Typing SVG" />
 </p>
 
 
